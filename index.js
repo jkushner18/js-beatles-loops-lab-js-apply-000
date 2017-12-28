@@ -19,6 +19,8 @@ function theBeatlesPlay(array1, array2){
 
 function johnLennonFacts (array3){
   
+var j =0
   
+while(j<3){
   
 }

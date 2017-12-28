@@ -4,11 +4,11 @@ arrinstr=["guitar","drums","bass","Keyboard"];
 
 
 
-function theBeatlesPlay(array1, array2){
+function theBeatlesPlay(arrmusician, arrinstr){
   
   var final=[];
   
-  for(var i = 0; i<3;i++){
+  for(var i = 0; i<arrmusician.length-1;i++){
     
-  final = array1[i] + "plays" + array2[i] + "."}
+  final[0]= arrmusician[i] + "plays" + arrinstr[i] + "."}
      }

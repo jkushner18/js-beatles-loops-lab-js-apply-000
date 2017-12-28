@@ -17,14 +17,3 @@ function theBeatlesPlay(array1, array2){
 } return final } 
 
 
-function johnLennonFacts(facts){
-  
-var done=[];
-  
-var j = 0;
-  
-while(j<=3) {done.push(facts[j]+ "!!!"); j++} 
-
-return done
-  
-}

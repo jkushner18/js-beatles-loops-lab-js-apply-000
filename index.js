@@ -35,10 +35,8 @@ var result=[]
  
 do { 
 
-var i=num;
+push.result("I love the Beatles"); num++
    
-push.result("I love the Beatles"); i++
-   
-} while (i < 15);
+} while (num < 15);
   
 }

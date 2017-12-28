@@ -19,11 +19,11 @@ function theBeatlesPlay(array1, array2){
 
 function johnLennonFacts(array3){
   
-var done=[]
+var done=[];
   
-var j =0
+var j =0;
   
-while(j<=3){done.push(array3[j]+ "!!!") J++} 
+while(j<=3) {done.push(array3[j]+ "!!!") J++} 
 
 return done
   

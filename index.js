@@ -4,7 +4,7 @@ arrinstr=["guitar","drums","bass","Keyboard"];
 
 
 
-function theBealtesPlay(arrmusician, arrinstr){
+function theBeatlesPlay(arrmusician, arrinstr){
   
   var final=[];
   

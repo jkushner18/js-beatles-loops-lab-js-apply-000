@@ -10,6 +10,6 @@ function theBeatlesPlay(array1, array2){
     
   final.push = array1[i] + " plays " + array2[i] + "."}
   
-  return final
+  final.push
      
 }

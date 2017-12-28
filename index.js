@@ -31,13 +31,13 @@ return done
 
 function iLoveTheBeatles(num){
  
- var result=[]
+var result=[]
  
 do { 
 
 var i=1
    
-push.result("I love the Beatles") 
+push.result("I love the Beatles"); i++
    
 } while (i < 15);
   

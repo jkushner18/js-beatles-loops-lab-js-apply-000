@@ -29,14 +29,4 @@ return done
   
 }
 
-function iLoveTheBeatles(num){
- 
-var result=[]
- 
-do { 
 
-push.result("I love the Beatles"); num++
-   
-} while (num < 15);
-  
-}

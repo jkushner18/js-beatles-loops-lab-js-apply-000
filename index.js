@@ -17,7 +17,7 @@ function theBeatlesPlay(array1, array2){
 } return final } 
 
 
-function johnLennonFacts(array3){
+function johnLennonFacts(facts){
   
 var done=[];
   

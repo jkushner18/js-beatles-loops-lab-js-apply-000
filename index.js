@@ -8,7 +8,7 @@ function theBeatlesPlay(array1, array2){
   
   var final=[];
   
-  for(var i = 0; i<arrmusician.length-1;i++){
+  for(var i = 0; i<3;i++){
     
-  final[0]= arrmusician[i] + "plays" + arrinstr[i] + "."}
+  final[]= arrmusician[i] + "plays" + arrinstr[i] + "."}
      }

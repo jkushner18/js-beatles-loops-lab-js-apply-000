@@ -28,3 +28,12 @@ while(j<=3) {done.push(facts[j] + "!!!"); j++}
 return done
   
 }
+
+function iLoveTheBeatles(num){
+ 
+ var result=[]
+ 
+ 
+  
+}
+}

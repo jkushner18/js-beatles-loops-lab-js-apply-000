@@ -34,6 +34,8 @@ function iLoveTheBeatles(num){
  var result=[]
  
 do { 
+
+var i=1
    
 push.result("I love the Beatles") 
    

@@ -1,4 +1,4 @@
-arrmusician=["John Lennon"."George Harrison","Ringo Starr","Paul Mccartney"]
+arrmusician=["John Lennon"."George Harrison","Ringo Starr","Paul Mccartney"];
 
 arr
 

@@ -10,12 +10,5 @@ function theBealtesPlay(arrmusician, arrinstr){
   
   for(var i = 0; i<arrmusician.length-1;i++){
     
-  var final= arrmusician + plays + arrinstr + "."
-    
-  
-    
-    
-  }
-  
-  
-}
+  var final[0}= arrmusician[i] + "plays" + arrinstr[i] + "."}
+     

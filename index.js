@@ -35,7 +35,7 @@ var result=[]
  
 do { 
 
-var i=1
+var i=num;
    
 push.result("I love the Beatles"); i++
    

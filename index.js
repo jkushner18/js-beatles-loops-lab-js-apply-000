@@ -23,7 +23,7 @@ var done=[];
   
 var j = 0;
   
-while(j<=3) {done.push(array3[j]+ "!!!"); j++} 
+while(j<=3) {done.push(facts[j]+ "!!!"); j++} 
 
 return done
   
